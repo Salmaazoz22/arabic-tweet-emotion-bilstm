@@ -1,0 +1,9 @@
+step,rows_after,rows_removed
+Original file,10065,0
+Keep 5 emotions,6408,3657
+Remove empty tweets,6407,1
+Remove conflicting-label texts (all copies),6397,10
+Remove exact duplicates (keep lowest ID),6387,10
+Remove tweets with no text after normalization,6385,2
+Remove near-duplicate conflicts,6385,0
+Remove near-duplicates,6331,54

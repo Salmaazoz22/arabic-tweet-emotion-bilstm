@@ -1,0 +1,7 @@
+LABEL,train,validation,test
+anger,1007,216,216
+joy,892,192,191
+sadness,873,187,187
+love,832,178,178
+fear,827,177,178
+TOTAL,4431,950,950

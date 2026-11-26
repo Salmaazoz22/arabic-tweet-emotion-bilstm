@@ -18,7 +18,7 @@ Citation: Al-Khatib, A. & El-Beltagy, S. (2017). Emotional Tone Detection in Ara
 
 | Member | Role |
 | --- | --- |
-| Saeid | Paper analysis and report lead |
+| Saied | Paper analysis and report lead |
 | Rawan | Dataset and split |
 | Salma | Arabic preprocessing and tokenization; repository setup |
 | Kordy | Embeddings (AraVec) |

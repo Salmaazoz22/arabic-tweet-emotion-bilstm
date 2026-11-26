@@ -1,0 +1,31 @@
+# Python caches and virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS and editor files
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Large embedding files (AraVec models are too large for GitHub)
+embeddings/
+*.mdl
+*.npy
+*.zip
+*.bin
+
+# Saved models and checkpoints
+*.h5
+*.keras
+checkpoints/
+
+# Environment files
+.env

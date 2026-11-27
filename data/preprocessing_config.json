@@ -1,0 +1,54 @@
+{
+  "max_len": 64,
+  "num_words": 20000,
+  "embed_input_dim": 20000,
+  "padding": "pre",
+  "truncating": "pre",
+  "oov_token": null,
+  "class_order": [
+    "anger",
+    "joy",
+    "sadness",
+    "love",
+    "fear"
+  ],
+  "label2id": {
+    "anger": 0,
+    "joy": 1,
+    "sadness": 2,
+    "love": 3,
+    "fear": 4
+  },
+  "kept_negation_words": [
+    "لا",
+    "لم",
+    "لن",
+    "ما",
+    "ليس",
+    "ولا",
+    "فلا",
+    "وما",
+    "ليست",
+    "لست",
+    "لسنا",
+    "لستم",
+    "لستن",
+    "لسن",
+    "ليسا",
+    "ليستا",
+    "ليسوا",
+    "غير"
+  ],
+  "stopword_count": 610,
+  "tokenizer_fitted_on": "train only",
+  "versions": {
+    "python": "3.13.18",
+    "tensorflow": "2.21.0",
+    "keras": "3.13.2",
+    "tokenizer_source": "tensorflow.keras",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "nltk": "3.9.1",
+    "emoji": "2.16.0"
+  }
+}

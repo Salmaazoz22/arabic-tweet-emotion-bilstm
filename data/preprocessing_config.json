@@ -37,9 +37,10 @@
     "ليسا",
     "ليستا",
     "ليسوا",
-    "غير"
+    "غير",
+    "الا"
   ],
-  "stopword_count": 610,
+  "stopword_count": 609,
   "tokenizer_fitted_on": "train only",
   "versions": {
     "python": "3.13.18",

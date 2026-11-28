@@ -1,0 +1,12 @@
+statistic,value
+vocabulary words,19999
+found as is (try 1),18721
+found after AraVec normalization (try 2),16
+found in total,18737
+missing (zero vector),1262
+word coverage,93.69%
+train word occurrences,50374
+occurrences inside the top-20k vocabulary,49870
+occurrences that get an AraVec vector,48246
+occurrence coverage (of all train occurrences),95.78%
+occurrence coverage (of in-vocabulary occurrences),96.74%
